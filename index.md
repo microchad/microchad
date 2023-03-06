@@ -32,7 +32,7 @@
 <p><a href="https://dimzayan.com/voicepaper.html">Bitcoin Voice Paper website</a> and <a href="https://21ism.com/portfolio-item/bitcoin-voice-paper/">21ism interview</a> with some of the team.</p>
 </blockquote>
 <h2 id="writing">Writing</h2>
-<h4 id="bitcoin-magazine">Border Wallets: A New Way to Create and Easily Memorize Bitcoin Seed Phrases</h4>
+<h3 id="bitcoin-magazine">Border Wallets: A New Way to Create and Easily Memorize Bitcoin Seed Phrases</h4>
 <p>An article to introduce new users to the Border Wallets project for <a href="https://bitcoinmagazine.com/technical/border-wallets-help-users-memorize-bitcoin-seed-phrases">Bitcoin Magazine.</a></p>
 Also translated into: 
 <a href="https://europeanbitcoiners.com/border-wallets-une-nouvelle-facon-de-creer-et-de-stocker-facilement-des-mots-cles-en-bitcoins/">French</a>, 
@@ -44,38 +44,38 @@ Also translated into:
 And featured by <a href="https://www.nasdaq.com/articles/border-wallets%3A-a-new-way-to-create-and-easily-memorize-bitcoin-seed-phrases">Nasdaq.com</a>.<br>
 <h4 id="bitcoin-magazine">HFSP</h4>
 <p>A short riff on a meme for the re-release of Bitcoin Magazine’s print issue. See <a href="https://store.bitcoinmagazine.com/collections/magazines/products/bitcoin-magazine-annual-subscription/">El Salvador edition</a> (or <a href="https://keybase.pub/mtcfyi/bitcoin-magazine-el-salvador-edition.pdf/">HFSP</a>).</p>
-<h4 id="hey-bitcoin-slow-down">Hey Bitcoin, Slow Down!</h4>
+<h3 id="hey-bitcoin-slow-down">Hey Bitcoin, Slow Down!</h4>
 <p>Prior to Bitcoin’s 3rd halving, I took a look at the mining velocity of <a href="https://mtc.medium.com/hey-bitcoin-slow-down-d5a692d07619">one single bitcoin</a>.</p>
 <h2 id="interviews--articles">Interviews &amp; articles</h2>
-<h4 id="suckboytony">SuckBoyTony</h4>
+<h3 id="suckboytony">SuckBoyTony</h4>
 <blockquote>
 <p>Interview &amp; article featuring 3D printed weapons enthusiast <a href="https://21ism.com/portfolio-item/suckboytony">SuckBoyTony</a>.</p>
 </blockquote>
-<h4 id="seed-signer">Seed Signer</h4>
+<h3 id="seed-signer">Seed Signer</h4>
 <blockquote>
-<p>A piece to accompany Max Bit Buy Bit’s interview with my favourite <a href="https://21ism.com/portfolio-item/seed-signer/">Bitcoin computer project</a>.</p>
+<p>A piece to accompany Max Bit Buy Bit’s interview with <a href="https://21ism.com/portfolio-item/seed-signer/">SeedSigner</a>.</p>
 </blockquote>
-<h4 id="the-bitcoin-machine">The Bitcoin Machine</h4>
+<h3 id="the-bitcoin-machine">The Bitcoin Machine</h4>
 <blockquote>
-<p>Interview &amp; article featuring the brothers behind my favourite <a href="https://21ism.com/portfolio-item/the-bitcoin-machines/">Bitcoin full node</a>.</p>
+<p>Interview &amp; article featuring the brothers behind <a href="https://21ism.com/portfolio-item/the-bitcoin-machines/">The Bitcoin Machine</a>.</p>
 </blockquote>
-<h4 id="chairforce">Chairforce</h4>
+<h3 id="chairforce">Chairforce</h4>
 <blockquote>
 <p>Interview &amp; article featuring <a href="https://21ism.com/portfolio-item/chairforce/">Chairforce</a> for 21ism.</p>
 </blockquote>
-<h4 id="greg-zaj">Greg Zaj</h4>
+<h3 id="greg-zaj">Greg Zaj</h4>
 <blockquote>
 <p>Interview &amp; article featuring <a href="https://21ism.com/portfolio-item/gregzaj">Greg Zaj</a> for 21ism.</p>
 </blockquote>
-<h4 id="icoffender">ICOffender</h4>
+<h3 id="icoffender">ICOffender</h4>
 <blockquote>
 <p>Interview &amp; article featuring <a href="https://21ism.com/portfolio-item/icoffender">Yellow</a> for 21ism.</p>
 </blockquote>
-<h4 id="bavarianhodl">BavarianHodl</h4>
+<h3 id="bavarianhodl">BavarianHodl</h4>
 <blockquote>
 <p>An interview with designer <a href="https://21ism.com/portfolio-item/bavarianhodl">Bavarian Hodl</a> for 21ism.</p>
 </blockquote>
-<h4 id="fractal-encrypt">Fractal Encrypt</h4>
+<h3 id="fractal-encrypt">Fractal Encrypt</h4>
 <blockquote>
 <p>My first interview for 21ism, with the creator of the amazing Bitcoin Full Node Sculpture - <a href="https://21ism.com/portfolio-item/fractalencrypt/">Fractal Encrypt</a>.</p>
 </blockquote>
